@@ -8,10 +8,10 @@ Based on  R3F_ARTY_LOG by  "madbull ~R3F~" @ http://www.team-r3f.org
 
 A SPECIAL THANKS GOES TO
 
- *SKARONATOR @ http://skaronator.com - for helping me out with the hive write 
- *Jeff @ http://casual.fr  - french translation
- *Blite - German Translation reworked
- *Anarior - Tow reworked	
+- SKARONATOR @ http://skaronator.com - for helping me out with the hive write 
+- Jeff @ http://casual.fr  - french translation
+- Blite - German Translation reworked
+- Anarior - Tow reworked	
  
 
 
