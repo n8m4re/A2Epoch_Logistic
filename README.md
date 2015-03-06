@@ -17,7 +17,9 @@ A SPECIAL THANKS GOES TO
 
 1.)  unpack  "zip" and copy the "logistic" folder to your "/MPMissions/DayZ_Epoch.Map" folder.
 
-2.)  open the "init.sqf" in your mission folder and add following on the top, after:   "call compile preprocessFileLineNumbers "server_traders.sqf"; "
+2.)  open the "init.sqf" in your mission folder and add following on the top, after:   
+
+"call compile preprocessFileLineNumbers "server_traders.sqf"; "
 
 THIS====>>   call compile preprocessFileLineNumbers "logistic\init.sqf";   <<<=========
 	
